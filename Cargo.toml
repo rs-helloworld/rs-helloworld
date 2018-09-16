@@ -1,0 +1,7 @@
+[package]
+name = "rs-helloworld"
+version = "0.1.0"
+authors = ["rs-helloworld <vlad@github.cnu4ek.net>"]
+
+[dependencies]
+mbedtls-sys-auto = "2.4.0"
